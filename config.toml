@@ -1,0 +1,7 @@
+baseURL = "/"
+title = "Notes"
+theme = "hugo-book"
+
+[params]
+BookTheme = 'dark'
+BookToC = false
